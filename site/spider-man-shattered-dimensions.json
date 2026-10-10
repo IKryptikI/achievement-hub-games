@@ -1,0 +1,391 @@
+{
+ "id": "spider-man-shattered-dimensions",
+ "title": "Spider-Man: Shattered Dimensions",
+ "subtitle": "",
+ "developer": "Beenox",
+ "publisher": "Activision",
+ "year": 2010,
+ "cover": "https://images.launchbox-app.com/93fb596b-09ee-42e8-b798-29819b74dbad.jpg",
+ "banner": "",
+ "points": 1000,
+ "achievements": [
+  {
+   "id": "lead_on_m_dubs",
+   "name": "Lead on, M-Dubs!",
+   "description": "Complete the Tutorial",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/86ed5.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "end_of_act_1",
+   "name": "End of Act 1",
+   "description": "Complete Act 1 on any difficulty level",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/3654g.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "end_of_act_2",
+   "name": "End of Act 2",
+   "description": "Complete Act 2 on any difficulty level",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/757db.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "end_of_act_3",
+   "name": "End of Act 3",
+   "description": "Complete Act 3 on any difficulty level",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/5g56e.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "easy_as_pie",
+   "name": "Easy as pie!",
+   "description": "Complete all levels on Easy",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/dbg85.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "is_this_normal",
+   "name": "Is this normal?",
+   "description": "Complete all levels on Normal",
+   "points": 50,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/je01d.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "hard_pressed",
+   "name": "Hard pressed",
+   "description": "Complete all levels on Hard",
+   "points": 100,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/1j314.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "survival_of_the_fittest",
+   "name": "Survival of the fittest",
+   "description": "Defeat Kraven on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/e1601.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "something_can_stop_juggernaut",
+   "name": "Something CAN stop Juggernaut!",
+   "description": "Defeat Juggernaut on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/0j0b0.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "here_s_mud_in_your_eye",
+   "name": "Here's mud in your eye!",
+   "description": "Defeat Sandman on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/80je5.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "now_there_s_a_shock",
+   "name": "Now there's a shock",
+   "description": "Defeat Electro on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/ege61.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "canceled",
+   "name": "Canceled!",
+   "description": "Defeat Deadpool on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/4b04b.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "minimized_carnage",
+   "name": "Minimized Carnage",
+   "description": "Defeat Carnage on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/63dbg.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "clipped_wings",
+   "name": "Clipped wings",
+   "description": "Defeat Hobgoblin on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/4147b.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "took_the_sting_out_of_him",
+   "name": "Took the sting out of him",
+   "description": "Defeat Scorpion on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/b48ee.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "lay_down_your_arms",
+   "name": "Lay down your arms",
+   "description": "Defeat Doc Ock on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/g5jg8.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "the_caged_bird_squawks",
+   "name": "The caged bird squawks",
+   "description": "Defeat Vulture on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/dbg45.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "the_hammer_falls",
+   "name": "The hammer falls",
+   "description": "Defeat Hammerhead on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/65b4g.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "circus_freak",
+   "name": "Circus freak",
+   "description": "Defeat Goblin on any difficulty level",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/je04d.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "final_curtain_call",
+   "name": "Final curtain call",
+   "description": "Defeat Mysterio on any difficulty level",
+   "points": 50,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/1j3g4.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "getting_warmed_up",
+   "name": "Getting warmed up",
+   "description": "Defeat 100 enemies",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/b6ede.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "in_the_zone",
+   "name": "In the zone",
+   "description": "Defeat 500 enemies",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/365jg.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "ain_t_no_stoppin",
+   "name": "Ain't no stoppin'!",
+   "description": "Defeat 1000 enemies",
+   "points": 50,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/757gb.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "manifest_destiny",
+   "name": "Manifest Destiny",
+   "description": "Complete the Web of Destiny",
+   "points": 100,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/5g51e.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "bug_collector",
+   "name": "Bug collector",
+   "description": "Collect the Hidden Spiders",
+   "points": 50,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/0j060.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "the_complete_package",
+   "name": "The complete package",
+   "description": "Unlock all Character Upgrades",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/80jb5.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "smooth_moves",
+   "name": "Smooth moves",
+   "description": "Unlock all Combat Upgrades",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/egej1.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "uncle_benjamin",
+   "name": "Uncle Benjamin",
+   "description": "Execute a 100-hit combo",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/4b0jb.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "two_hundo",
+   "name": "Two hundo",
+   "description": "Execute a 200-hit combo",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/63deg.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "missed_me",
+   "name": "Missed me!",
+   "description": "Defeat a boss on any difficulty level without taking damage",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/b48be.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "close_call",
+   "name": "Close call!",
+   "description": "Recover 10 times from a Critical Fall",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/g3gb8.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "amazing",
+   "name": "Amazing!",
+   "description": "Complete 4 levels with the highest rank in Hard mode",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/g5j88.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "sensational",
+   "name": "Sensational!!",
+   "description": "Complete 8 levels with the highest rank in Hard mode",
+   "points": 30,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/dbgd5.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "spectacular",
+   "name": "Spectacular!!!",
+   "description": "Complete 12 levels with the highest rank in Hard mode",
+   "points": 50,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/je08d.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "hobbyist",
+   "name": "Hobbyist",
+   "description": "Collect 125 Spider Emblems",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/1j3e4.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "enthusiast",
+   "name": "Enthusiast",
+   "description": "Collect 250 Spider Emblems",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/365dg.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "fanatic",
+   "name": "Fanatic",
+   "description": "Collect 500 Spider Emblems",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/7576b.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "no_harm_done",
+   "name": "No harm done",
+   "description": "Complete any level without dying (except the Tutorial)",
+   "points": 20,
+   "secret": true,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/d1475.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "the_spider_s_shadow",
+   "name": "The Spider's shadow",
+   "description": "Complete a Noir level without triggering an alarm",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/5g54e.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "the_spider_s_bite",
+   "name": "The Spider's bite",
+   "description": "Keep Rage Mode active for one minute",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/0j0g0.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "the_spider_s_grace",
+   "name": "The Spider's grace",
+   "description": "Complete a 2099 freefall section without taking damage",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/80jg5.png?721ec22c1ff921c5bd9fc702d4787615"
+  },
+  {
+   "id": "the_spider_s_web",
+   "name": "The Spider's web",
+   "description": "Defeat 50 enemies using the Amazing Charge Attack",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/psn/awards/l/ege41.png?721ec22c1ff921c5bd9fc702d4787615"
+  }
+ ]
+}

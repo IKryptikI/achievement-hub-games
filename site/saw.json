@@ -1,0 +1,427 @@
+{
+ "id": "saw",
+ "title": "Saw",
+ "subtitle": "",
+ "developer": "Zombie Studios",
+ "publisher": "Konami",
+ "year": 2009,
+ "cover": "https://images.launchbox-app.com/efe7aeb7-3dfe-494b-b3a1-0406e987d825.png",
+ "banner": "",
+ "points": 1000,
+ "achievements": [
+  {
+   "id": "it_s_a_trap",
+   "name": "It's A Trap!",
+   "description": "Complete Reverse Bear Trap.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/05gb05.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "what_was_that",
+   "name": "What Was That?!?",
+   "description": "First encounter with Pighead.",
+   "points": 5,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/5d4658.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "damaged_goods",
+   "name": "Damaged Goods",
+   "description": "Release Amanda from her Trap.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/71eg7e.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "hit_and_run",
+   "name": "Hit And Run",
+   "description": "Release Jennings from his Trap.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/83gej7.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "absent_parent",
+   "name": "Absent Parent",
+   "description": "Release Melissa from her Trap.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/eb46e0.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "aphasia",
+   "name": "Aphasia",
+   "description": "Release Oswald from his Trap.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/4g34e5.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "eager_student",
+   "name": "Eager Student",
+   "description": "Release Obi from his Trap.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/6j6b7d.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "born_victim",
+   "name": "Born Victim",
+   "description": "Release Jeff from his Trap.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/b50egg.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "violence_begets_violence",
+   "name": "Violence Begets Violence",
+   "description": "Kill the Pighead.",
+   "points": 40,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/gdeg13.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "never_truly_free",
+   "name": "Never Truly Free",
+   "description": "Complete game using Freedom Door.",
+   "points": 100,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/d6540b.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "cost_of_the_truth",
+   "name": "Cost of the Truth",
+   "description": "Complete game using Truth Door.",
+   "points": 100,
+   "secret": true,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/d36045.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "treasure",
+   "name": "Treasure!",
+   "description": "Unlock first container.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/e7b371.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "it_was_an_accident",
+   "name": "It Was An Accident",
+   "description": "Kill first minion.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/58d78e.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "self_defense",
+   "name": "Self-Defense",
+   "description": "Kill 10 minions.",
+   "points": 15,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/0853g0.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "duress",
+   "name": "Duress",
+   "description": "Kill 20 minions.",
+   "points": 20,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/jd368d.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "just_experimenting",
+   "name": "Just Experimenting",
+   "description": "Used Health Syringe for the first time",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/1847d4.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "i_can_stop_anytime",
+   "name": "I Can Stop Anytime",
+   "description": "Used 20 Health Syringes.",
+   "points": 20,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/d360d5.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "you_ve_wasted_your_life",
+   "name": "You've Wasted Your Life",
+   "description": "Idle for five minutes.",
+   "points": 5,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/bj5g0e.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "would_you_like_to_know_more",
+   "name": "Would You Like To Know More?",
+   "description": "Find your first Asylum File.",
+   "points": 20,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/883585.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "who_is_the_jigsaw_killer",
+   "name": "Who Is The Jigsaw Killer?",
+   "description": "Find your first Patient File.",
+   "points": 15,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/38b7eg.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "darwin_would_be_proud",
+   "name": "Darwin Would Be Proud",
+   "description": "Died once.",
+   "points": 20,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/d36055.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "kill_or_be_killed",
+   "name": "Kill Or Be Killed",
+   "description": "Killed a Collared Minion with a collar detonation.",
+   "points": 30,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/58d74e.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "give_me_five",
+   "name": "Give Me Five!",
+   "description": "First kill with a Mannequin Arm.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/68j76g.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "homerun",
+   "name": "Homerun",
+   "description": "First kill with a Bat.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/78106b.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "sometimes_it_sticks",
+   "name": "Sometimes It Sticks",
+   "description": "First kill with a Nail Bat.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/7810gb.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "cleaning_up",
+   "name": "Cleaning Up",
+   "description": "First kill with a Mop Handle.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/48ge3b.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "pipe_dream",
+   "name": "Pipe Dream",
+   "description": "First kill with a Pipe.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/7810eb.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "surgeon",
+   "name": "Surgeon",
+   "description": "First kill with a Scalpel.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/g6d188.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "penetrated",
+   "name": "Penetrated",
+   "description": "First kill with a Syringe.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/1847g4.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "you_ve_been_served",
+   "name": "You've Been Served",
+   "description": "First kill with a Table Leg.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/e7b341.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "you_ll_need_this_afterwards",
+   "name": "You'll Need This Afterwards",
+   "description": "First kill with a Crutch.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/g6d1e8.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "grave_digger",
+   "name": "Grave Digger",
+   "description": "First kill with a Shovel.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/jd364d.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "lights_off",
+   "name": "Lights Off",
+   "description": "First kill with a Table Lamp.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/8835g5.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "hatchet_job",
+   "name": "Hatchet Job",
+   "description": "First kill with a Hatchet.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/68j7eg.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "fire_hazard",
+   "name": "Fire Hazard",
+   "description": "First kill with fire",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/1847e4.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "splitting_headache",
+   "name": "Splitting Headache",
+   "description": "First kill with Scissors.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/38b7jg.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "say_hello_to_my_little_friend",
+   "name": "Say Hello To My Little Friend",
+   "description": "First kill with a Gun.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/8835b5.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "wait_for_the_boom",
+   "name": "Wait For The Boom",
+   "description": "First kill with an Explosive Mine.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/085360.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "whoops",
+   "name": "Whoops!",
+   "description": "First kill with a Stun Mine.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/48gejb.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "choked_up",
+   "name": "Choked Up",
+   "description": "First kill with a Gas Mine.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/58d71e.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "i_m_in_charge",
+   "name": "I'm In Charge",
+   "description": "Fought first NPC.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/085380.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "curb_stomp",
+   "name": "Curb Stomp",
+   "description": "Stomped first Minion to death.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/bj5gbe.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "merciless",
+   "name": "Merciless",
+   "description": "Stomped five Minions to death.",
+   "points": 20,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/g6d1g8.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "forced_entry",
+   "name": "Forced Entry",
+   "description": "Unlocked first door.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/jd36jd.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "locksmith",
+   "name": "Locksmith",
+   "description": "Unlock 5 locked doors.",
+   "points": 20,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/38b7dg.png?29c0b6647e675da206c5db2ebb71818e"
+  },
+  {
+   "id": "professional",
+   "name": "Professional",
+   "description": "Unlock 20 locked doors.",
+   "points": 50,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/e7b3j1.png?29c0b6647e675da206c5db2ebb71818e"
+  }
+ ]
+}

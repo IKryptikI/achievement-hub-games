@@ -1,0 +1,265 @@
+{
+ "id": "silent-hill-2",
+ "title": "Silent Hill 2",
+ "subtitle": "",
+ "developer": "Konami Computer Entertainment Tokyo",
+ "publisher": "Konami",
+ "year": 2002,
+ "cover": "https://images.launchbox-app.com/b10a2cb3-a753-47b2-9b4f-7ebb115d59cd.jpg",
+ "banner": "",
+ "points": 500,
+ "achievements": [
+  {
+   "id": "she_would_be_proud",
+   "name": "She Would Be Proud",
+   "description": "Unlock all Achievements in SH2.",
+   "points": 50,
+   "secret": false,
+   "tracked": true,
+   "icon": "https://m.exophase.com/xbox/awards/l/0ed777.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "free_to_go",
+   "name": "Free to Go",
+   "description": "Unlock the \"Leave\" ending.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/g41bbg.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "second_best",
+   "name": "Second Best",
+   "description": "Unlock the \"Maria\" ending.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/87611j.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "goodbye",
+   "name": "Goodbye",
+   "description": "Unlock the \"In Water\" ending.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/e51dd3.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "say_your_prayers",
+   "name": "Say Your Prayers",
+   "description": "Unlock the \"Rebirth\" ending.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/4d1551.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "it_all_makes_sense_now",
+   "name": "It All Makes Sense Now",
+   "description": "Unlock the \"Dog\" ending.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/615003.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "never_to_be_heard_from_again",
+   "name": "Never to be Heard from Again",
+   "description": "Unlock the \"UFO\" ending.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/b16773.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "warp_speed",
+   "name": "Warp Speed",
+   "description": "Complete SH2 in 3 hours or less.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/g4300g.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "overkill",
+   "name": "Overkill",
+   "description": "Acquire the Chainsaw.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/de1jjd.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "who_needs_a_gun",
+   "name": "Who Needs a Gun?",
+   "description": "Acquire the Green Hyper Spray.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/jg5bbj.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "playing_on_the_edge",
+   "name": "Playing on the Edge",
+   "description": "Complete SH2 with 2 saves or less.",
+   "points": 30,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/160558.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "keep_your_distance",
+   "name": "Keep Your Distance",
+   "description": "Defeat at least 75 enemies by shooting in SH2.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/3g033b.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "melee_master",
+   "name": "Melee Master",
+   "description": "Defeat at least 75 enemies by fighting in SH2.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/730bb3.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "keen_eye",
+   "name": "Keen Eye",
+   "description": "Find at least 150 items + extra items in SH2.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/3g711b.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "don_t_keep_her_waiting",
+   "name": "Don't Keep Her Waiting",
+   "description": "Complete Boat Stage in less than 1 min 20 seconds.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/734jj3.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "hard_to_hit",
+   "name": "Hard to Hit",
+   "description": "Receive less than 500 points of damage in one game, in SH2.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/5j3ee0.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "childhood_trauma",
+   "name": "Childhood Trauma",
+   "description": "Defeat Abstract Daddy.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/167bb8.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "i_don_t_need_you_anymore",
+   "name": "I Don't Need You Anymore",
+   "description": "Defeat Pyramid Head.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/jg677j.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "where_s_that_letter",
+   "name": "Where's that Letter!?",
+   "description": "Defeat Flesh Lips.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/5j7000.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "say_goodbye",
+   "name": "Say Goodbye",
+   "description": "Defeat Mary.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/de077d.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "restless_dreams",
+   "name": "Restless Dreams",
+   "description": "Unlock the \"Born from a Wish\" ending.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/0ed707.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "i_q_test",
+   "name": "I.Q. Test",
+   "description": "Complete SH2 on Extra Riddle difficulty.",
+   "points": 30,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/8761jj.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "fountain_of_youth",
+   "name": "Fountain of Youth",
+   "description": "Acquire the White Chrism.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/e51de3.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "not_so_lost_memories",
+   "name": "Not So Lost Memories",
+   "description": "Acquire the book of Lost Memories.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/4d1501.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "unholy_grail",
+   "name": "Unholy Grail",
+   "description": "Acquire the Obsidian Goblet.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/6150d3.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "light_reading",
+   "name": "Light Reading",
+   "description": "Acquire the book of Crimson Ceremony.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/b16783.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "man_s_best_friend",
+   "name": "Man's Best Friend",
+   "description": "Acquire the Dog Key.",
+   "points": 40,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/g430jg.png?f627383f06c9ced5d22db9ea70d89a66"
+  },
+  {
+   "id": "we_re_not_alone",
+   "name": "We're Not Alone",
+   "description": "Acquire the Blue Gem.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": "https://m.exophase.com/xbox/awards/l/de1jgd.png?f627383f06c9ced5d22db9ea70d89a66"
+  }
+ ]
+}

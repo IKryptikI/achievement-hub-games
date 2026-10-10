@@ -1,0 +1,553 @@
+{
+ "id": "re2-classic-gog",
+ "title": "Resident Evil 2",
+ "subtitle": "Leon",
+ "developer": "Capcom",
+ "publisher": "Capcom",
+ "year": 1998,
+ "cover": "https://images.gog-statics.com/7cb6d5e76cf9829af4e0efecb73c38b730476ac7fc7bb519eafadebd2ded49c4.jpg",
+ "banner": "https://images.gog-statics.com/540d019872600861a13326657b31bccda5ee5e4a539743e364937909f6eb7d7a.jpg",
+ "points": 1000,
+ "achievements": [
+  {
+   "id": "leon_start",
+   "name": "Rookie's First Day",
+   "description": "Start the Leon scenario.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "rpd",
+   "name": "Welcome to the R.P.D.",
+   "description": "Make it inside the police station.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "marvin",
+   "name": "Hey, Marvin",
+   "description": "Talk to Marvin in the East Office.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "red_jewel",
+   "name": "Jewel Thief",
+   "description": "Find a Red Jewel.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": ""
+  },
+  {
+   "id": "medals",
+   "name": "Decorated Officer",
+   "description": "Collect the Unicorn, Eagle and Wolf medals.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "card_keys",
+   "name": "Full House",
+   "description": "Collect the Spade, Diamond, Heart and Club keys.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "ben",
+   "name": "Cell Mates",
+   "description": "Talk to Ben in the holding cells.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "ada",
+   "name": "Lady in Red",
+   "description": "Meet Ada Wong.",
+   "points": 10,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "alligator",
+   "name": "See Ya Later",
+   "description": "Defeat the giant alligator in the sewers.",
+   "points": 20,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "lab",
+   "name": "Going Down",
+   "description": "Take the freight elevator into the Umbrella lab.",
+   "points": 10,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "leon_a",
+   "name": "Last Train Out",
+   "description": "Complete Leon's first scenario.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "leon_b",
+   "name": "Second Shift",
+   "description": "Complete Leon's second scenario.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "claire_start",
+   "name": "Looking for Chris",
+   "description": "Start the Claire scenario.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "sherry",
+   "name": "Big Sister",
+   "description": "Meet Sherry Birkin.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "irons_office",
+   "name": "The Chief's Hobby",
+   "description": "Find the trophy room in Chief Irons' office.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "irons",
+   "name": "Chief's Last Stand",
+   "description": "Get past Chief Irons.",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "annette",
+   "name": "Mother Knows Best",
+   "description": "Meet Annette Birkin.",
+   "points": 10,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "vaccine",
+   "name": "The Cure",
+   "description": "Make the vaccine for Sherry.",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "claire_a",
+   "name": "Runs in the Family",
+   "description": "Complete Claire's first scenario.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "claire_b",
+   "name": "Still Looking",
+   "description": "Complete Claire's second scenario.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "g1",
+   "name": "Birkin's Mistake",
+   "description": "Defeat G's first form.",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "g2",
+   "name": "It Keeps Changing",
+   "description": "Defeat G's second form.",
+   "points": 20,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "mr_x",
+   "name": "Big Guy in a Trench Coat",
+   "description": "Defeat Mr. X in the lab.",
+   "points": 25,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "g_final",
+   "name": "Off the Rails",
+   "description": "Defeat G's final form on the train.",
+   "points": 25,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "licker",
+   "name": "Tongue Lashing",
+   "description": "Defeat a Licker.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "ivy",
+   "name": "Weed Killer",
+   "description": "Defeat an Ivy.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "dog",
+   "name": "Bad Dog",
+   "description": "Put down a zombie dog.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "spider",
+   "name": "Arachnophobia",
+   "description": "Defeat a giant spider.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "moth",
+   "name": "Moth to a Flame",
+   "description": "Defeat a giant moth.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "crow",
+   "name": "Murder of Crows",
+   "description": "Shoot down a crow.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "brad",
+   "name": "Sorry, Brad",
+   "description": "Put down Brad Vickers.",
+   "points": 15,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "forest",
+   "name": "Bravo Team Reunion",
+   "description": "Put down Forest Speyer.",
+   "points": 10,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "kendo",
+   "name": "Kendo's Last Customer",
+   "description": "Get out of Kendo's gun shop alive.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "shotgun",
+   "name": "Boomstick",
+   "description": "Get the shotgun.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "magnum",
+   "name": "Hand Cannon",
+   "description": "Get the magnum.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "smg",
+   "name": "Spray and Pray",
+   "description": "Get the submachine gun.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "flamethrower",
+   "name": "Got a Light?",
+   "description": "Get the flamethrower.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "sparkshot",
+   "name": "Shocking",
+   "description": "Get the Spark Shot.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "bowgun",
+   "name": "Bolt Action",
+   "description": "Get the bowgun.",
+   "points": 10,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "colt",
+   "name": "Six Shooter",
+   "description": "Get the Colt S.A.A.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "grenade_rounds",
+   "name": "Mixed Bag",
+   "description": "Load the grenade launcher with explosive, acid and flame rounds.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "upgrades",
+   "name": "Gun Nut",
+   "description": "Find every weapon upgrade part.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "rocket",
+   "name": "Problem Solver",
+   "description": "Get the rocket launcher.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "side_pack",
+   "name": "Pack Mule",
+   "description": "Find a Side Pack.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "film",
+   "name": "Say Cheese",
+   "description": "Develop a roll of film.",
+   "points": 5,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "all_film",
+   "name": "Shutterbug",
+   "description": "Develop every roll of film.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "costume",
+   "name": "Fashion Statement",
+   "description": "Change into an alternate costume.",
+   "points": 15,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "rank_a",
+   "name": "Class A",
+   "description": "Finish any scenario with an A rank.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "straight_a",
+   "name": "Straight A's",
+   "description": "Finish all four scenarios with an A rank.",
+   "points": 45,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "no_saves",
+   "name": "Who Needs Typewriters?",
+   "description": "Finish a scenario without saving.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "no_healing",
+   "name": "Walk It Off",
+   "description": "Finish a scenario without using a healing item.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "under_2h30",
+   "name": "In a Hurry",
+   "description": "Finish a scenario in under 2 hours 30 minutes.",
+   "points": 25,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "under_2h",
+   "name": "Clock Watcher",
+   "description": "Finish a scenario in under 2 hours.",
+   "points": 30,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "full_recovery",
+   "name": "Close Call",
+   "description": "Heal to full health from Caution or worse.",
+   "points": 10,
+   "secret": false,
+   "tracked": true,
+   "icon": ""
+  },
+  {
+   "id": "no_side_pack",
+   "name": "Travelling Light",
+   "description": "Finish a scenario without picking up a Side Pack.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "original",
+   "name": "By the Book",
+   "description": "Finish a scenario in Original mode.",
+   "points": 20,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "handgun_only",
+   "name": "Peashooter",
+   "description": "Finish a scenario without picking up any weapon besides the handgun and knife.",
+   "points": 35,
+   "secret": false,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "hunk",
+   "name": "Mr. Death",
+   "description": "Complete The 4th Survivor.",
+   "points": 30,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "tofu",
+   "name": "Soy Strong",
+   "description": "Complete The To-fu Survivor.",
+   "points": 35,
+   "secret": true,
+   "tracked": false,
+   "icon": ""
+  },
+  {
+   "id": "platinum",
+   "name": "Last One Out of Raccoon City",
+   "description": "Unlock every other achievement.",
+   "points": 50,
+   "secret": false,
+   "tracked": true,
+   "icon": ""
+  }
+ ]
+}
