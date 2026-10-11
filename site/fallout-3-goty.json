@@ -367,7 +367,7 @@
    "description": "Made one of every custom weapon",
    "points": 30,
    "secret": false,
-   "tracked": false,
+   "tracked": true,
    "icon": "https://m.exophase.com/xbox/awards/l/jd574g.png?fb513256b3252318b20b63a75a07c305"
   },
   {
@@ -439,7 +439,7 @@
    "description": "Kill all the Super Mutant Behemoths",
    "points": 20,
    "secret": false,
-   "tracked": false,
+   "tracked": true,
    "icon": "https://m.exophase.com/xbox/awards/l/68547e.png?fb513256b3252318b20b63a75a07c305"
   },
   {
@@ -493,7 +493,7 @@
    "description": "Collected all Alien Captive Recordings",
    "points": 20,
    "secret": false,
-   "tracked": false,
+   "tracked": true,
    "icon": "https://m.exophase.com/xbox/awards/l/4817j4.png?fb513256b3252318b20b63a75a07c305"
   },
   {
@@ -529,7 +529,7 @@
    "description": "Discovered all locations within Point Lookout",
    "points": 40,
    "secret": false,
-   "tracked": false,
+   "tracked": true,
    "icon": "https://m.exophase.com/xbox/awards/l/e710j8.png?fb513256b3252318b20b63a75a07c305"
   },
   {
@@ -619,7 +619,7 @@
    "description": "Found All 100 Steel Ingots",
    "points": 20,
    "secret": false,
-   "tracked": false,
+   "tracked": true,
    "icon": "https://m.exophase.com/xbox/awards/l/583017.png?fb513256b3252318b20b63a75a07c305"
   },
   {
